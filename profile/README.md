@@ -1,6 +1,4 @@
-![SettleMint](../assets/hero.png)
-
-[![Watch the video](https://img.youtube.com/vi/gsPbB93Ge-g/default.jpg)](https://www.youtube.com/embed/gsPbB93Ge-g?si=NNjn_uyW637tWVue)
+![SettleMint](./hero.png)
 
 # Radically simplified blockchain development
 
