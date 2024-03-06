@@ -1,5 +1,3 @@
-![SettleMint](./hero.png)
-
 # Radically simplified blockchain development
 
 SettleMint's Blockchain Transformation Platform is revolutionizing the way enterprises create blockchain applications. By providing comprehensive blockchain tools and a suite of templates, the platform makes it easy for developers to build blockchain applications quickly and efficiently. With its extensive range of features, the platform enables users to securely manage distributed transaction networks, develop smart contracts and quickly deploy blockchain applications. With SettleMint, you have the ability to create, deploy and maintain blockchain applications with unparalleled ease and efficiency.
